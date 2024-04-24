@@ -22,7 +22,7 @@ const (
 	screenHeight = 600
 	racketWidth  = screenWidth / 4
 	racketHeight = 5
-	winnerScore  = 8
+	winnerScore  = 11
 )
 
 type Game struct {
